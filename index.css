@@ -1,0 +1,25 @@
+.video {
+  /* background-color: gray; */
+  margin-top: 4rem;
+  border: 2px solid black;
+  box-shadow: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.record-btn {
+  border: none;
+  font-family: monospace;
+  width: 6rem;
+  height: 1.3rem;
+  background-color: blue;
+  color: white;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.2rem;
+}
